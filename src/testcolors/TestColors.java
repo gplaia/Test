@@ -20,6 +20,7 @@ public class TestColors {
         JFrame jframe = new JFrame();
         jframe.setBounds(10,10,1000,600);
         jframe.setVisible(true);
+        //yiiiooxulashfksageskgh
     }
     
 }
